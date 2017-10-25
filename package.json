@@ -1,0 +1,90 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-toast-demo",
+        "scope": null,
+        "escapedName": "vue-toast-demo",
+        "name": "vue-toast-demo",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\"
+    ]
+  ],
+  "_from": "vue-toast-demo@latest",
+  "_id": "vue-toast-demo@1.0.1",
+  "_inCache": true,
+  "_location": "/vue-toast-demo",
+  "_nodeVersion": "6.0.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/vue-toast-demo-1.0.1.tgz_1499791323537_0.8414721318986267"
+  },
+  "_npmUser": {
+    "name": "jackbean",
+    "email": "sunnyboysoft@163.com"
+  },
+  "_npmVersion": "4.5.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-toast-demo",
+    "scope": null,
+    "escapedName": "vue-toast-demo",
+    "name": "vue-toast-demo",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-toast-demo/-/vue-toast-demo-1.0.1.tgz",
+  "_shasum": "e71e7d33a65a24e941a3641c73cec3fb7d1b1a95",
+  "_shrinkwrap": null,
+  "_spec": "vue-toast-demo",
+  "_where": "D:\\",
+  "author": {
+    "name": "JackBean"
+  },
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
+    "css-loader": "^0.28.4",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "vue": "^2.3.4",
+    "vue-loader": "^13.0.1",
+    "vue-template-compiler": "^2.3.4",
+    "webpack": "^3.1.0"
+  },
+  "description": "a toast plugin for mobile",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e71e7d33a65a24e941a3641c73cec3fb7d1b1a95",
+    "tarball": "https://registry.npmjs.org/vue-toast-demo/-/vue-toast-demo-1.0.1.tgz"
+  },
+  "keywords": [
+    "toast",
+    "vue-toast"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jackbean",
+      "email": "sunnyboysoft@163.com"
+    }
+  ],
+  "name": "vue-toast-demo",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
